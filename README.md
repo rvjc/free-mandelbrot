@@ -10,7 +10,7 @@ consistency when one considers things like DNA, plants and creatures.
 
 Now imagine an infinite 2D universe created from a much simpler
 set of laws. The Mandelbrot Set (named after Benoit Mandelbrot)
-defines one such universe using an beautifully simple equation:
+defines one such universe using a beautifully simple equation:
 
     Z -> Z * Z + C
   
