@@ -12,7 +12,7 @@ Now imagine an infinite 2D universe created from a much simpler
 set of laws. The Mandelbrot Set (named after Benoit Mandelbrot
 defines one such universe using an exceedingly simple equation:
 
-  Z -> Z * Z + C
+    Z -> Z * Z + C
   
 When this equation is used in a certain way, it creates a world
 full of exotic shapes known as fractals. The similarities with
