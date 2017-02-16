@@ -16,7 +16,7 @@ defines one such universe using an beautifully simple equation:
   
 When this equation is used in a certain way, it creates a world
 full of exotic shapes known as fractals. The similarities with
-our own world are uncanny. Bugs, sea-horses and trees are only
+our own world are uncanny. Bugs, sea-horses and plants are only
 the tip of the iceberg. If your computer was powerful enough,
 you could zoom in forever and make facinating new discoveries.
 All of this from an innocuous little equation!
