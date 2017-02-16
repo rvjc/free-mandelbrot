@@ -26,6 +26,10 @@ Who said Math was boring?
 Which brings me to the whole point of this exercise for aspiring
 programmers.
 
+## Screenshots
+
+![World View](/WorldView.jpg)
+
 ## System Requirements
 
 We tested this prgram on Windows 7, but there is no reason why it
