@@ -6,7 +6,6 @@
 # See: <http://www.gnu.org/licenses/>.
 #
 ############################################################
-
 #
 # COMPLEX OR REAL CALCULATIONS?
 #
