@@ -2,15 +2,15 @@
 
 ## The Magic Equation
 
-Imagine a God creating the Universe just before the Big Bang. His
-only way of controlling his creation was by imposing a set of
-physical laws from which everything else would follow. Our world
-may be chaotic, but it has a remarkable underlying consistency
-when one considers things like DNA, plants and creatures.
+Imagine a God-like entity creating the Universe just before the
+Big Bang. His only way of controlling his creation is by imposing
+a set of physical laws from which everything else would follow.
+The world around us may be chaotic, but it has a remarkable underlying
+consistency when one considers things like DNA, plants and creatures.
 
 Now imagine an infinite 2D universe created from a much simpler
-set of laws. The Mandelbrot Set (named after Benoit Mandelbrot
-defines one such universe using an exceedingly simple equation:
+set of laws. The Mandelbrot Set (named after Benoit Mandelbrot)
+defines one such universe using an beautifully simple equation:
 
     Z -> Z * Z + C
   
