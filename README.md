@@ -54,5 +54,39 @@ detail using a Maximum Iterations Count = 256
 A new view is typically rendered in less than a minute although
 this time will increase in darker regions.
 
+## Why Greyscale?
+   
+The color representation of the values produced by the Mandelbrot
+algorithm is the most subjective aspect. Using the full color
+spectrum with sophisticated post-processing can yield impressive
+results but it takes from the one-dimensional purity, especially
+at low Maximum Iteration counts.
+ 
+Dynamic greyscale color balancing is also employed to show the
+maximum detail for any given view. The overall result is a good
+compromise between speed and detail
 
-    
+## COMPLEX OR REAL CALCULATIONS?
+
+Python's ability to process Complex Numbers is so fast that
+there is little benefit to using the Mandelbrot algorithm for
+the Real Plane (see Wikipedia article on the Mandelbrot Set).
+Using the Complex version also has the benefit of underlying
+the algorithm's simplicity
+
+## COORDINATES
+
+View coordinates in the Complex plane are floating-point
+numbers. The Real part (X) increases towards the right and
+the Imaginary part (Y) increases towards the top. The view
+rectangle is specified by CENTER coordinates, width and
+height (X,Y,W,H).
+
+Screen coordinates are in integer pixels relative to (0,0)
+at the top left of the window. The X value increases towards
+the right of the screen BUT the Y value increases towards
+the bottom. The zoom rectangle consists of the screen
+coordinates of the starting and end points of the zoom drag.
+When both coordinates are identical, this implies a zoom
+rectangle width and height of ONE (zero widths and heights
+are not possible in this instance).
