@@ -32,6 +32,14 @@ programmers.
 
 ![](/WorldView.jpg)
 
+### Exotic Island
+
+![](/ExoticIsland.jpg)
+
+### Claw Spiral
+
+![](/ClawSpiral.jpg)
+
 ## System Requirements
 
 We tested this prgram on Windows 7, but there is no reason why it
