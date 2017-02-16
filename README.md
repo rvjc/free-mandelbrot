@@ -23,11 +23,8 @@ All of this from an innocuous little equation!
 
 Who said Math was boring?
 
-Which brings me to the whole point of this exercise for
-aspiring programmers:
-
-- Math can be fun and it really matters to aspiring programmers.
-- Neglect this now and you will regret it later.
+Which brings me to the whole point of this exercise for aspiring
+programmers.
 
 ## System Requirements
 
