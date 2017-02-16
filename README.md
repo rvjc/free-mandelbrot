@@ -3,7 +3,7 @@
 ## The Magic Equation
 
 Imagine a God-like entity creating the Universe just before the
-Big Bang. His only way of controlling his creation is by imposing
+Big Bang. The only way of controlling this creation is by imposing
 a set of physical laws from which everything else will follow.
 The world around us may be chaotic, but it has a remarkable underlying
 consistency when one considers things like DNA, plants and creatures.
