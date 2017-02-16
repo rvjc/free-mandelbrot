@@ -40,6 +40,34 @@ programmers.
 
 ![](/ClawSpiral.jpg)
 
+### Sea Horses
+
+![](/SeaHorses.jpg)
+
+### Spiky Tail
+
+![](/SpikyTail.jpg)
+
+### Fan of Elephants
+
+![](/FanOfElephants.jpg)
+
+### Thorny Branches
+
+![](/ThornyBranches.jpg)
+
+### Jelly Fish
+
+![](/JellyFish.jpg)
+
+### Potted Plants
+
+![](/PottedPlants.jpg)
+
+### Brocolli Junction
+
+![](/BrocolliJunction.jpg)
+
 ## System Requirements
 
 We tested this prgram on Windows 7, but there is no reason why it
