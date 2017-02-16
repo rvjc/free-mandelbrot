@@ -70,15 +70,16 @@ programmers.
 
 ## System Requirements
 
-We tested this prgram on Windows 7, but there is no reason why it
-shouldn't work reliably on other platforms. Before running the
-program on Windows, you will need to install Python 3.2 (standard
-32-bit version with IDLE) and then Pygame 1.9.2a0.wn32-py3.2.
+At the time of writing (2012), we tested this program on Windows 7,
+but there is no reason why it shouldn't work reliably on other
+platforms. Before running the program on Windows, you will need to
+install Python 3.2 (standard 32-bit version with IDLE) and then
+Pygame 1.9.2a0.wn32-py3.2.
 
 Unfortunately Pygame is no longer actively maintained even though
 it still works reliably on modern OSes. 
 
-The program has two windows: the console and view window.
+The program has two windows: the console and view windows.
 A simple help system is provided which is self-explanatory.
 
 ## How to Zoom
@@ -132,12 +133,12 @@ the Real Plane (see Wikipedia article on the Mandelbrot Set).
 Using the Complex version also has the benefit of underlying
 the algorithm's simplicity
 
-## Coordinates
+## A Note on Coordinates
 
 View coordinates in the Complex plane are floating-point
 numbers. The Real part (X) increases towards the right and
 the Imaginary part (Y) increases towards the top. The view
-rectangle is specified by CENTER coordinates, width and
+rectangle is specified by its CENTER coordinates, width and
 height (X,Y,W,H).
 
 Screen coordinates are in integer pixels relative to (0,0)
@@ -160,5 +161,6 @@ the learning curve rapidly:
 3. Use full colour instead of greyscale.
 4. Allow for different color models/interpretations.
 5. Add random/noise/unpredictability element to the core equation.
-5. Add a save image feature (with coodinates).
-6. Add a long-running batch feature to automate zoom and save video.
+6. Add a save image feature (with coodinates).
+7. Add a long-running batch feature to automate zoom and save video.
+8. Reflect on the fact that Creationism is hard work ;-)
