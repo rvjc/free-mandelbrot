@@ -104,8 +104,8 @@ the right of the screen BUT the Y value increases towards
 the bottom. The zoom rectangle consists of the screen
 coordinates of the starting and end points of the zoom drag.
 When both coordinates are identical, this implies a zoom
-rectangle width and height of ONE (zero widths and heights
-are not possible in this instance).
+rectangle width and height of ONE (therefore zero zoom
+widths and heights are not possible).
 
 ## Challenge
 
@@ -113,7 +113,7 @@ In the best spirit of educational programming, here are a
 few challenges for aspiring programmers wanting to move up
 the learning curve rapidly:
 
-1. Refactor code to use a modern graphics framework.
+1. Refactor this code to use a modern graphics framework.
 2. Rewrite in C/C++ to enhance speed.
 3. Use full colour instead of greyscale.
 4. Allow for different color models/interpretations.
