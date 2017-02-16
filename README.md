@@ -28,7 +28,7 @@ programmers.
 
 ## Screenshots
 
-![World View](/WorldView.jpg)
+![](/WorldView.jpg "World View")
 
 ## System Requirements
 
