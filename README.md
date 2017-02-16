@@ -66,7 +66,7 @@ Dynamic greyscale color balancing is also employed to show the
 maximum detail for any given view. The overall result is a good
 compromise between speed and detail
 
-## COMPLEX OR REAL CALCULATIONS?
+## Complex or Real Calculations?
 
 Python's ability to process Complex Numbers is so fast that
 there is little benefit to using the Mandelbrot algorithm for
@@ -74,7 +74,7 @@ the Real Plane (see Wikipedia article on the Mandelbrot Set).
 Using the Complex version also has the benefit of underlying
 the algorithm's simplicity
 
-## COORDINATES
+## Coordinates
 
 View coordinates in the Complex plane are floating-point
 numbers. The Real part (X) increases towards the right and
