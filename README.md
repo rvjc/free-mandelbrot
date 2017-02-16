@@ -118,4 +118,5 @@ the learning curve rapidly:
 3. Use full colour instead of greyscale.
 4. Allow for different color models/interpretations.
 5. Add random/noise/unpredictability element to the core equation.
-6. Devise a long-running batch feature to automate zoom and save video.
+5. Add a save image feature (with coodinates).
+6. Add a long-running batch feature to automate zoom and save video.
