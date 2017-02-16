@@ -25,10 +25,13 @@ Who said Math was boring?
 
 ## System Requirements
 
-This program was tested on Windows 7 but there is no reason why
-it should not work reliably on other platforms.
-Python 3.2
-Pygame
+We tested this prgram on Windows 7, but there is no reason why it
+shouldn't work reliably on other platforms. Before running the
+program on Windows, you will need to install Python 3.2 (standard
+32-bit version with IDLE) and then Pygame 1.9.2a0.wn32-py3.2.
+
+The program has two windows -- the console and view window.
+A simple help system is provided.
 
 ## How to Zoom
 
@@ -97,3 +100,8 @@ coordinates of the starting and end points of the zoom drag.
 When both coordinates are identical, this implies a zoom
 rectangle width and height of ONE (zero widths and heights
 are not possible in this instance).
+
+## Challenge
+
+In the best spirit of educational programming, here are a
+few challenges
