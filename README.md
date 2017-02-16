@@ -23,6 +23,13 @@ All of this from an innocuous little equation!
 
 Who said Math was boring?
 
+## System Requirements
+
+This program was tested on Windows 7 but there is no reason why
+it should not work reliably on other platforms.
+Python 3.2
+Pygame
+
 ## How to Zoom
 
 Mark the zoom area by holding down the left button of the mouse,
