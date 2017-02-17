@@ -160,7 +160,7 @@ the learning curve rapidly:
 2. Rewrite in C/C++ to enhance speed.
 3. Use full colour instead of greyscale.
 4. Allow for different color models/interpretations.
-5. Add random/noise/unpredictability element to the core equation.
+5. Add random/noise/unpredictability to the core equation (free will?).
 6. Add a save image feature (with coodinates).
 7. Add a long-running batch feature to automate zoom and save video.
 8. Reflect on the fact that Creationism is hard work ;-)
