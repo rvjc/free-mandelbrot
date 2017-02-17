@@ -163,4 +163,4 @@ the learning curve rapidly:
 5. Add random/noise/unpredictability to the core equation (free will?).
 6. Add a save image feature (with coodinates).
 7. Add a long-running batch feature to automate zoom and save video.
-8. Reflect on the fact that Creationism is hard work ;-)
+8. Reflect on the fact that Creationism is bloody hard work ;-)
