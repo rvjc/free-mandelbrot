@@ -76,8 +76,8 @@ platforms. Before running the program on Windows, you will need to
 install Python 3.2 (standard 32-bit version with IDLE) and then
 Pygame 1.9.2a0.wn32-py3.2.
 
-Unfortunately Pygame is no longer actively maintained even though
-it still works reliably on modern OSes. 
+Unfortunately Pygame is no longer actively maintained but still
+works reliably on modern OSes. 
 
 The program has two windows: the console and view windows.
 A simple help system is provided which is self-explanatory.
