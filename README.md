@@ -40,8 +40,8 @@ One of the downsides of school-work in general, and math in
 particular, is that impatient teenagers often have to learn
 about phenomena whose benefits are not immediately apparent.
 Complex numbers is a classic case in point and there is
-no better way to win over hearts and minds than with the
-accidental discoveries of Benoit Mandelbrot.
+no better way to win over young hearts and minds than with
+this accidental discovery of Benoit Mandelbrot.
 
 ## Screenshots
 
