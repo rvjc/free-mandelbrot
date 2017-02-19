@@ -41,7 +41,7 @@ One of the downsides of school-work in general, and math in
 particular, is that we often have to learn stuff whose
 benefits are not immediately apparent. This really sucks for
 teenagers whose precociousness and impatience will surprise
-even those of us who were once pecocious and impatient
+even those of us who were once precocious and impatient
 teenagers ourselves. Complex numbers are a classic case in
 point. Iota? Square root of minus one? Imaginary numbers?
 WTF? Well, for this particular field of studt, there is no
