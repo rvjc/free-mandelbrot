@@ -23,8 +23,14 @@ All of this from an innocuous little equation!
 
 Who said Math was boring?
 
-Which brings me to the whole point of this exercise for aspiring
-programmers.
+Which brings me to the whole point of this exercise for three
+of my sons who were becoming interested in programming around
+the same time (2012). Developing a consuming passion at a young
+age is often at the expense of other activities which can limit
+your options down the road. With the entry requirements for
+Computer Science courses dropping all the time, many aspiring
+programmers neglect the deeper aspects of mathematics and live
+to regret it later.
 
 ## Screenshots
 
