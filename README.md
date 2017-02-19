@@ -147,7 +147,7 @@ compromise between speed and detail
 Python's ability to process Complex Numbers is so fast that
 there is little benefit to using the Mandelbrot algorithm for
 the Real Plane (see Wikipedia article on the Mandelbrot Set).
-Using the Complex version also has the benefit of underlying
+Using the Complex version also has the benefit of underlining
 the algorithm's simplicity
 
 ## A Note on Coordinates
