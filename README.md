@@ -18,7 +18,7 @@ When this equation is used in a certain way, it creates a world
 full of exotic shapes known as fractals. The similarities with
 our own world are uncanny. Bugs, sea-horses and plants are only
 the tip of the iceberg. If your computer was powerful enough,
-you could obtain infinite detail and make facinating new
+you could uncover enough detail to make facinating new
 discoveries. All of this from an innocuous little equation!
 
 So who said math was boring? Which brings me to the whole point
