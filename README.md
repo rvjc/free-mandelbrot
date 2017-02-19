@@ -30,11 +30,18 @@ age is often at the expense of other activities which can limit
 your options down the road. With the entry requirements for
 Computer Science courses dropping all the time, many aspiring
 programmers neglect the deeper mathematical aspects (which are
-often bound with their school work) and live to regret it later.
+often bound with school work) and live to regret it later.
 But, as is so often the case, the real fun is to be found in
 burrowing down below the superfical aspects. And this is as
 true of activities like music, car-tinkering and sports as it
 is for programming.
+
+One of the downsides of school-work in general, and math in
+particular, is that impatient teenagers often have to learn
+about phenomena whose benefits are not immediately apparent.
+Complex numbers is a classic case in point and there is
+no better way to win over hearts and minds than with the
+accidental discoveries of Benoit Mandelbrot.
 
 ## Screenshots
 
