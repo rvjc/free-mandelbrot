@@ -18,8 +18,8 @@ When this equation is used in a certain way, it creates a world
 full of exotic shapes known as fractals. The similarities with
 our own world are uncanny. Bugs, sea-horses and plants are only
 the tip of the iceberg. If your computer was powerful enough,
-you could zoom in forever and make facinating new discoveries.
-All of this from an innocuous little equation!
+you could obtain infinite detail and make facinating new
+discoveries. All of this from an innocuous little equation!
 
 So who said math was boring? Which brings me to the whole point
 of this exercise. Three of my sons were developing an interest
