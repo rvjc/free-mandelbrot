@@ -29,8 +29,8 @@ Finding a consuming passion at a young age is a wonderful thing
 but it is often at the expense of other activities which can
 limit your options down the road. As the entry requirements
 for Computer Science courses plummet, many aspiring programmers
-are neglecting the deeper mathematical aspects which are
-invariably bound with school work. And they live to regret it
+are neglecting the deeper mathematical aspects (which are
+invariably bound with school work) and they live to regret it
 later. But, as is so often the case, the real fun is to be
 found in burrowing down beyond the superfical. And this is as
 true of activities like music, car-tinkering and sports as it
