@@ -46,9 +46,12 @@ teenagers ourselves. Complex numbers are a classic case in
 point. Iota? Square root of minus one? Imaginary numbers?
 WTF? Well, for this particular field of study, there is no
 better way of winning over young hearts and minds than with
-Benoit Mandelbrot's accidental discovery (he thought his
-printer was smudging ink). And if you can master something
-as simple as a complex number then the sky is the limit ;-)
+Benoit Mandelbrot's accidental discovery (at first, he thought
+his printer was smudging ink which is understandable if you
+check out the world view screenshot below).
+
+But in all seriousness, if you can master something as simple
+as a complex number then the sky is the limit ;-)
 
 ## Screenshots
 
