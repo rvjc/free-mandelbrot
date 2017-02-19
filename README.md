@@ -39,14 +39,13 @@ programming.
 One of the downsides of school-work in general, and math in
 particular, is that we often have to learn stuff whose
 benefits are not immediately apparent. And this really sucks
-when we are teenagers because precociousness and impatience
-are often our guiding lights. Complex numbers are a classic
-case in point. Iota? Square root of minus one? Imaginary
-numbers? WTF? Well, for this particular field, there is no
-better way to win over young hearts and minds than with
-Benoit Mandelbrot's accidental discovery. And if you can
-nail something as simple as a complex number then the sky
-is the limit ;-)
+when we are teenagers when precociousness and impatience are
+our guiding lights. Complex numbers are a classic case in
+point. Iota? Square root of minus one? Imaginary numbers?
+WTF? Well, for this particular field, there is no better way
+to win over hearts and minds than with Benoit Mandelbrot's
+accidental discovery. And if you can nail something as simple
+as complex numbers then the sky is the limit ;-)
 
 ## Screenshots
 
