@@ -33,7 +33,7 @@ for Computer Science courses plummet, aspiring programmers
 tend to neglect the deeper mathematical aspects (which are
 invariably bound with "boring" school work) and they live to
 regret it later. But, as is so often the case, the real fun
-is to be found in miving beyond the superfical. And this is as
+is to be found in moving beyond the superfical. And this is as
 true of activities like music, car-tinkering and sports as it
 is for programming.
 
