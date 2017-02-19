@@ -37,14 +37,16 @@ activities like music, car-tinkering and sports as it is for
 programming.
 
 One of the downsides of school-work in general, and math in
-particular, is that impatient teenagers often have to learn
-stuff whose benefits are not immediately apparent. Complex
-numbers are a classic case in point. Iota? Square root of
-minus one? Imaginary numbers? WTF? Well, when it comes to
-complex numbers, there is no better way to win over young
-hearts and minds than with this accidental discovery of
-Benoit Mandelbrot. And if you nail something so simple as
-a complex numbers then the sky is the limit ;-)
+particular, is that we often have to learn stuff whose
+benefits are not immediately apparent. And this really sucks
+when we are teenagers because precociousness and impatience
+are often our guiding lights. Complex numbers are a classic
+case in point. Iota? Square root of minus one? Imaginary
+numbers? WTF? Well, for this particular field, there is no
+better way to win over young hearts and minds than with
+Benoit Mandelbrot's accidental discovery. And if you can
+nail something as simple as a complex number then the sky
+is the limit ;-)
 
 ## Screenshots
 
