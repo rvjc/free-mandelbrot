@@ -45,7 +45,7 @@ even those of us who were once precocious and impatient
 teenagers ourselves. Complex numbers are a classic case in
 point. Iota? Square root of minus one? Imaginary numbers?
 WTF? Well, for this particular field of study, there is no
-better way to win over young hearts and minds than with
+better way of winning over young hearts and minds than with
 Benoit Mandelbrot's accidental discovery (he thought his
 printer was smudging ink). And if you can master something
 as simple as a complex number then the sky is the limit ;-)
