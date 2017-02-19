@@ -22,32 +22,33 @@ you could zoom in forever and make facinating new discoveries.
 All of this from an innocuous little equation!
 
 So who said math was boring? Which brings me to the whole point
-of this exercise for three of my sons who were developing an
-interest in programming, all around the same time in 2012.
+of this exercise. Three of my sons were developing an interest
+in programming in 2012 and I felt the time was ripe to start
+getting serious about math.
 
 Finding a consuming passion at a young age is a wonderful thing
 but it is often at the expense of other activities which can
 limit your options down the road. As the entry requirements
 for Computer Science courses plummet, aspiring programmers
-often neglect the deeper mathematical aspects (which are
-invariably bound with school work) and live to regret it later.
-But, as is so often the case, the real fun is to be found in
-burrowing down beyond the superfical. And this is as true of
-activities like music, car-tinkering and sports as it is for
-programming.
+tend to neglect the deeper mathematical aspects (which are
+invariably bound with "boring" school work) and they live to
+regret it later. But, as is so often the case, the real fun
+is to be found in miving beyond the superfical. And this is as
+true of activities like music, car-tinkering and sports as it
+is for programming.
 
 One of the downsides of school-work in general, and math in
 particular, is that we often have to learn stuff whose
-benefits are not immediately apparent. Of course, this really
-sucks for teenagers whose precociousness and impatience
-surprise even those of us who were once teenagers ourselves.
-Complex numbers are a classic case in point. Iota? Square
-root of minus one? Imaginary numbers? WTF? Well, for this
-particular field, there is no better way to win over young
-hearts and minds than with Benoit Mandelbrot's accidental
-discovery (at first, he thought his printer was smudging
-ink). And if you can nail something as simple as a complex
-number then the sky is the limit ;-)
+benefits are not immediately apparent. This really sucks for
+teenagers whose precociousness and impatience will surprise
+even those of us who were once pecocious and impatient
+teenagers ourselves. Complex numbers are a classic case in
+point. Iota? Square root of minus one? Imaginary numbers?
+WTF? Well, for this particular field of studt, there is no
+better way to win over young hearts and minds than with
+Benoit Mandelbrot's accidental discovery (he thought his
+printer was smudging ink). And if you can master something
+as simple as a complex number then the sky is the limit ;-)
 
 ## Screenshots
 
