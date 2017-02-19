@@ -21,20 +21,19 @@ the tip of the iceberg. If your computer was powerful enough,
 you could zoom in forever and make facinating new discoveries.
 All of this from an innocuous little equation!
 
-Who said math was boring?
+Who said math was boring? Which brings me to the whole point of
+this exercise for three of my sons who were becoming interested
+in programming around the same time (2012).
 
-Which brings me to the whole point of this exercise for three
-of my sons who were becoming interested in programming around
-the same time (2012). Developing a consuming passion at a young
-age is often at the expense of other activities which can limit
-your options down the road. With the entry requirements for
-Computer Science courses dropping all the time, many aspiring
-programmers neglect the deeper mathematical aspects (which are
-often bound with school work) and live to regret it later.
-But, as is so often the case, the real fun is to be found in
-burrowing down below the superfical. And this is as true of
-activities like music, car-tinkering and sports as it is for
-programming.
+Discovering a consuming passion at a young age is a wonderful
+thing but it is often at the expense of other activities which
+can limit your options down the road. As the entry requirements
+for Computer Science courses plummet, many aspiring programmers
+neglect the deeper mathematical aspects (which are invariably
+bound with school work) and live to regret it later. But, as is
+so often the case, the real fun is to be found in burrowing
+down beyond the superfical. And this is as true of activities
+like music, car-tinkering and sports as it is for programming.
 
 One of the downsides of school-work in general, and math in
 particular, is that impatient teenagers often have to learn
