@@ -5,8 +5,8 @@
 Imagine a God-like entity creating the Universe just before the
 Big Bang. The only way of controlling this creation is by imposing
 a set of physical laws from which everything else will follow.
-The world around us may be chaotic, but it has a remarkable underlying
-consistency when one considers things like DNA, plants and creatures.
+The world around us may be chaotic, but it has remarkable underlying
+consistencies when one considers things like DNA, plants and creatures.
 
 Now imagine an infinite 2D universe created from a much simpler
 set of laws. The Mandelbrot Set (named after Benoit Mandelbrot)
@@ -14,44 +14,53 @@ defines one such universe using a beautifully simple equation:
 
     Z -> Z * Z + C
   
-When this equation is used in a certain way, it creates a world
-full of exotic shapes known as fractals. The similarities with
-our own world are uncanny. Bugs, sea-horses and plants are only
-the tip of the iceberg. If your computer was powerful enough,
-you could uncover enough detail to make facinating new
-discoveries. All of this from an innocuous little equation!
+When this equation is interpreted in a certain way, it creates a
+world full of exotic shapes known as fractals. The similarities
+with our own world are uncanny. Bugs, sea-horses and plants are
+only the tip of the iceberg. If your computer was powerful enough,
+you could uncover enough detail to make facinating new discoveries.
+All of this from an innocuous little equation!
 
 So who said math was boring? Which brings me to the whole point
 of this exercise. Three of my sons were developing an interest
-in programming in 2012 and I felt the time was ripe to start
-getting serious about math.
+in programming in 2012 and the time was ripe to start getting
+serious about math.
 
 Finding a consuming passion at a young age is a wonderful thing
 but it is often at the expense of other activities which can
 limit your options down the road. As the entry requirements
 for Computer Science courses plummet, aspiring programmers
-tend to neglect the deeper mathematical aspects (which are
-invariably bound with "boring" school work) and they live to
-regret it later. But, as is so often the case, the real fun
-is to be found in moving beyond the superfical. And this is as
-true of activities like music, car-tinkering and sports as it
-is for programming.
+tend to neglect the deeper mathematical aspects which are 
+invariably bound up with "boring" school work. And they live
+to regret it later when this "math ceiling" is even harder to
+penetrate and limits their ability to excel at their art.
+But, as is so often the case, the real fun is to be found in
+burrowing down beyond the superfical. And this is as true of
+music, car-tinkering and sports as it is for software
+development.
 
 One of the downsides of school-work in general, and math in
 particular, is that we often have to learn stuff whose
 benefits are not immediately apparent. This really sucks for
 teenagers whose precociousness and impatience will surprise
 even those of us who were once precocious and impatient
-teenagers ourselves. Complex numbers are a classic case in
-point. Iota? Square root of minus one? Imaginary numbers?
-WTF? Well, for this particular field of study, there is no
-better way of winning over young hearts and minds than with
-Benoit Mandelbrot's accidental discovery (at first, he thought
-his printer was smudging ink which is understandable if you
-check out the world view screenshot below).
+teenagers ourselves ;-) Complex numbers are a classic case
+in point and are often presented in a way that terrorises
+an angst-ridden age-group that is still struggling to master
+higher level math. Complex? Imaginary numbers? WTF? Square
+root of minus one? Iota is all Greek to me!
 
-But in all seriousness, if you can master something as simple
-as a complex number then the sky is the limit ;-)
+Well, for this field of study, there is no better way of
+winning over young hearts and minds than with Benoit
+Mandelbrot's accidental discovery. As the story goes,
+he thought his printer was smudging ink as the World View
+screenshot below amply demonstrates. But he too burrowed
+down beyond the superficial to make what Arthur C. Clarke
+described as "one of the most astonishing discoveries in the
+entire history of math".
+
+You too can burrow down and if you can master something as
+simple as complex numbers then the universe is the limit ;-)
 
 ## Screenshots
 
