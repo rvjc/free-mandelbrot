@@ -22,17 +22,18 @@ you could uncover enough detail to make facinating new discoveries.
 All of this from an innocuous little equation!
 
 So who said math was boring? Which brings me to the whole point
-of this exercise. Three of my sons were developing an interest
-in programming in 2012 and the time was ripe to start getting
-serious about math.
+of this exercise.
 
-Finding a consuming passion at a young age is a wonderful thing
-but it is often at the expense of other activities which can
-limit your options down the road. As the entry requirements
-for Computer Science courses plummet, aspiring programmers
-tend to neglect the deeper mathematical aspects which are 
-invariably bound up with "boring" school work. And they live
-to regret it later when this "math ceiling" is even harder to
+Three of my sons were developing an interest in programming in
+2012 and I though the time was ripe for them to start getting
+serious about math. Finding a consuming passion at a young age
+is a wonderful thing but it is often at the expense of other
+activities which can limit your options down the road. As the
+entry requirements for Computer Science courses plummet,
+aspiring programmers tend to neglect the deeper mathematical
+aspects which are  invariably bound up with "boring" school
+work. And, as StackOverflow amply demonstrates, they live to
+regret it later when this "math ceiling" is even harder to
 penetrate and limits their ability to excel at their art.
 But, as is so often the case, the real fun is to be found in
 burrowing down beyond the superfical. And this is as true of
@@ -46,11 +47,11 @@ teenagers whose precociousness and impatience will surprise
 even those of us who were once precocious and impatient
 teenagers ourselves ;-) Complex numbers are a classic case
 in point and are often presented in a way that terrorises
-this angst-ridden age-group. Complex? Not really! Imaginary
-numbers? WTF? Square root of minus one? Iota is all Greek to
-me!
+an already angst-ridden age-group. Complex? Not really!
+Imaginary numbers? WTF? Square root of minus one? Iota is
+all Greek to me!
 
-Well, for this field of study, there is no better way of
+Well, for this particular field, there is no better way of
 winning over young hearts and minds than with Benoit
 Mandelbrot's accidental discovery. As the story goes,
 he thought his printer was smudging ink (as the World View
