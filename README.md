@@ -32,9 +32,9 @@ activities which can limit your options down the road. As the
 entry requirements for Computer Science courses plummet,
 aspiring programmers tend to neglect the deeper mathematical
 aspects which are invariably bound up with "boring" school
-work. And, as the questions and answers on StackOverflow amply
-demonstrate, many programmers live to regret it later when
-this "math ceiling" is even harder to penetrate and limits
+work. As the questions and answers on StackOverflow amply
+demonstrate, many programmers live to regret this later when
+the "math ceiling" is even harder to penetrate and limits
 their ability to excel at their art. But, as is so often the
 case, the real fun is to be found in burrowing down beyond the
 superfical. And this is as true of music, car-tinkering and
