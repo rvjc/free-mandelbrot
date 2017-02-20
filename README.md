@@ -31,14 +31,14 @@ is a wonderful thing but it is often at the expense of other
 activities which can limit your options down the road. As the
 entry requirements for Computer Science courses plummet,
 aspiring programmers tend to neglect the deeper mathematical
-aspects which are  invariably bound up with "boring" school
-work. And, as StackOverflow amply demonstrates, they live to
-regret it later when this "math ceiling" is even harder to
-penetrate and limits their ability to excel at their art.
-But, as is so often the case, the real fun is to be found in
-burrowing down beyond the superfical. And this is as true of
-music, car-tinkering and sports as it is for software
-development.
+aspects which are invariably bound up with "boring" school
+work. And, as the questions and answers on StackOverflow amply
+demonstrate, many programmers live to regret it later when
+this "math ceiling" is even harder to penetrate and limits
+their ability to excel at their art. But, as is so often the
+case, the real fun is to be found in burrowing down beyond the
+superfical. And this is as true of music, car-tinkering and
+sports as it is for software development.
 
 One of the downsides of school-work in general, and math in
 particular, is that we often have to learn stuff whose
