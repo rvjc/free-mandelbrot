@@ -46,21 +46,21 @@ teenagers whose precociousness and impatience will surprise
 even those of us who were once precocious and impatient
 teenagers ourselves ;-) Complex numbers are a classic case
 in point and are often presented in a way that terrorises
-an angst-ridden age-group that is still struggling to master
-higher level math. Complex? Imaginary numbers? WTF? Square
-root of minus one? Iota is all Greek to me!
+this angst-ridden age-group. Complex? Not really! Imaginary
+numbers? WTF? Square root of minus one? Iota is all Greek to
+me!
 
 Well, for this field of study, there is no better way of
 winning over young hearts and minds than with Benoit
 Mandelbrot's accidental discovery. As the story goes,
-he thought his printer was smudging ink as the World View
-screenshot below amply demonstrates. But he too burrowed
-down beyond the superficial to make what Arthur C. Clarke
-described as "one of the most astonishing discoveries in the
-entire history of math".
+he thought his printer was smudging ink (as the World View
+screenshot below amply demonstrates). But he took it upon
+himself to "burrow down beyond the superficial" to make
+what Arthur C. Clarke described as "one of the most
+astonishing discoveries in the entire history of math".
 
 You too can burrow down and if you can master something as
-simple as complex numbers then the universe is the limit ;-)
+simple as a complex number then the universe is the limit ;-)
 
 ## Screenshots
 
