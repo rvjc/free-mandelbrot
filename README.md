@@ -56,10 +56,10 @@ winning over young hearts and minds than with Benoit
 Mandelbrot's accidental discovery. As the story goes,
 he thought his printer was smudging ink (which the World
 View screenshot below amply demonstrates). But he took it
-upon himself to investigate further by "burrowing down
-beyond the superficial". In doing so, he made what Arthur
-C. Clarke described as "one of the most astonishing discoveries
-in the entire history of mathematics".
+upon himself to investigate further (by burrowing down
+beyond the superficial). And, in doing so, he made what
+Arthur C. Clarke described as "one of the most astonishing
+discoveries in the entire history of mathematics".
 
 You too can burrow down and if you can master something as
 simple as a complex number then the universe is the limit ;-)
