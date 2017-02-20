@@ -146,7 +146,8 @@ most impressive images. It is also restricted by the computer and
 program's ability to process very high-precision floating-point
 numbers at speed. By keeping the display window small and using
 colors efficiently, this program is able to generate reasonable
-detail using a Maximum Iterations Count = 256
+detail within a reasonable amount of time using a Maximum
+Iterations Count of 256.
 
 A new view is typically rendered in less than a minute although
 this time will increase in darker regions.
