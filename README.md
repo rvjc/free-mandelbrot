@@ -67,12 +67,12 @@ but we are getting smaller". Well, this Mandelbotesque thought
 experiment by a twelve-year old is not as crazy at it seems!
 It is actualy a very intuitive way of visualising our so-called
 "expanding" universe where all galaxies appear to be moving away
-from each other other at the same rate regardless of your point
+from each other other at the same rate regardless of our point
 of reference.
 
 You too can burrow down and let your imagination run riot.
-If you can master something as simple as a complex number then
-the universe is the limit :-)
+And if you can master something as simple as a complex number
+then the universe is the limit :-)
 
 ## Screenshots
 
