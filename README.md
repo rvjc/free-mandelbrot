@@ -72,7 +72,7 @@ of reference.
 
 You too can burrow down and let your imagination run riot.
 And if you can master something as simple as a complex number
-then the sky --- nay, the universe --- is the limit :-)
+then the sky — nay, the universe — is the limit :-)
 
 ## Screenshots
 
