@@ -45,7 +45,7 @@ sports as it is for software development.
 One of the downsides of school-work in general, and math in
 particular, is that we often have to learn stuff whose benefits
 are not immediately apparent. This really sucks for modern
-teenagers whose precociousness and impatience will surprise even
+teenagers whose precociousness and impatience surprise even
 those of us who were once precocious and impatient teenagers
 ourselves ;-) Complex numbers are a classic case in point and are
 often presented in a way that terrorises an already angst-ridden
