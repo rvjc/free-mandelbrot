@@ -32,37 +32,45 @@ activities which can limit your options down the road. As the
 entry requirements for Computer Science courses plummet,
 aspiring programmers tend to neglect the deeper mathematical
 aspects which are invariably bound up with "boring" school
-work. As the questions and answers on StackOverflow amply
-demonstrate, many programmers live to regret this later when
-the "math ceiling" is even harder to penetrate and limits
-their ability to excel at their art. But, as is so often the
-case, the real fun is to be found in burrowing down beyond the
-superfical. And this is as true of music, car-tinkering and
-sports as it is for software development.
+work. And many programmers live to regret this later when the
+"math ceiling" is even harder to penetrate and limits their
+ability to excel at their art. Even a cursory perusal of Q&A
+web sites like StackOverflow will bear this out. But the real
+fun is to be found in burrowing down beyond the superfical.
+And this is as true of activities like music, car-tinkering
+and sports as it is for software development.
 
 One of the downsides of school-work in general, and math in
-particular, is that we often have to learn stuff whose
-benefits are not immediately apparent. This really sucks for
-teenagers whose precociousness and impatience will surprise
-even those of us who were once precocious and impatient
-teenagers ourselves ;-) Complex numbers are a classic case
-in point and are often presented in a way that terrorises
-an already angst-ridden age-group. Complex? Not really!
-Imaginary numbers? WTF? Square root of minus one? Iota is
-all Greek to me!
+particular, is that we have to learn stuff whose benefits are
+not immediately apparent. This really sucks for teenagers whose
+precociousness and impatience will surprise even those of us
+who were once precocious and impatient teenagers ourselves ;-)
+Complex numbers are a classic case in point and are often
+presented in a way that terrorises an already angst-ridden
+age-group. Complex? Not really (if you delve a little deeper)!
+Imaginary numbers? WTF? Square root of minus one? Iota is all
+Greek to me!
 
 Well, for this particular field, there is no better way of
 winning over young hearts and minds than with Benoit
-Mandelbrot's accidental discovery. As the story goes,
-he thought his printer was smudging ink (which the World
-View screenshot below amply demonstrates). But he took it
-upon himself to investigate further (by burrowing down
-beyond the superficial). And, in doing so, he made what
+Mandelbrot's accidental discovery. As the story goes, he
+thought his printer was smudging ink (which the World View
+screenshot below amply demonstrates). But he took it upon
+himself to investigate further. And, in doing so, he made what
 Arthur C. Clarke described as "one of the most astonishing
 discoveries in the entire history of mathematics".
 
-You too can burrow down and if you can master something as
-simple as a complex number then the universe is the limit ;-)
+As my youngest son put it: "Maybe the universe is NOT expanding,
+but we are getting smaller". Well, this Mandelbotesque thought
+experiment by a twelve-year old is not as crazy at it seems!
+It is a very intuitive way of visualising our "expanding"
+universe where all galaxies appear to be moving away from each
+other other at the same rate regardless of your point of
+reference.
+
+You too can burrow down to let your imagination run riot.
+And if you can master something as simple as a complex number
+then the universe is the limit :-)
 
 ## Screenshots
 
