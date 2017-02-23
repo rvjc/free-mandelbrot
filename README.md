@@ -24,6 +24,8 @@ All of this from an innocuous little equation!
 So who said math was boring? Which brings me to the whole point
 of this exercise.
 
+## Background
+
 A few years back, three of my sons were getting interested in
 programming  and I thought it was high time for them to start
 getting serious about math. Finding a consuming passion at a
