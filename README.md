@@ -70,7 +70,7 @@ his printer was smudging ink which is entirely understandable
 if you check out the World View screenshot below. But Monsieur
 Mandelbrot's curiosity got the better of him and he took it
 upon himself to "burrow down" and investigate further. And, in
-doing so, he made what Arthur C. Clarke described as "one of
+so doing, he made what Arthur C. Clarke described as "one of
 the most astonishing discoveries in the entire history of
 mathematics".
 
