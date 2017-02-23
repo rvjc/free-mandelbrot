@@ -48,8 +48,9 @@ the superfical — and this is as true of activities like music,
 car-tinkering and sports as it is for software development.
 Most of us have the intellectual capacity and curiosity to
 do this, but the stimulus is often absent and the fear factor
-is ever-present, not least because those who have moved up the
-learning curve rapidly make it seem like an impossible task. 
+is ever-present, not least because those who have got over the
+"hump" and moved up the learning curve rapidly make it seem
+like an impossible task. 
 
 One of the downsides of school-work in general, and math in
 particular, is that we have to learn stuff whose benefits
