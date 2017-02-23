@@ -44,10 +44,10 @@ Of course, the real fun is to be found in burrowing down beyond
 the superfical — and this is as true of activities like music,
 car-tinkering and sports as it is for software development.
 Most of us have the intellectual capacity and curiosity to
-"burrow down", but the stimulus is often absent and the fear
-factor is ever-present, not least because those who have
-overcome the odds and moved up the learning curve rapidly
-make it all seem like an impossible task. 
+do this, but the stimulus is often absent and the fear factor
+is ever-present, not least because those who have overcome the
+odds and moved up the learning curve rapidly make it all seem
+like an impossible task. 
 
 One of the downsides of school-work in general, and math in
 particular, is that we have to learn stuff whose benefits
