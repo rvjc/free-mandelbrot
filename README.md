@@ -74,19 +74,19 @@ As my youngest son put it: "Maybe the universe is NOT expanding,
 but we getting smaller". Well, this Mandelbotesque thought
 experiment by a twelve-year old is not as crazy at it seems if
 the "we" refers to all matter in the universe which also forms
-the basis of our reference dimensions (everything is relative).
-As it turns out, this is a very intuitive way of visualising an
-"expanding" universe where all galaxies appear to be "moving
-away" from each other other at the same rate. If you can disprove
-this contention, then a career in Theoretical Physics beckons
-which is way beyond my pay grade! But be warned: as Albert
-Einstein once remarked: "the more we learn, the more we realise
-how little we know".
+the basis of our reference dimensions (because everything is
+relative). As it turns out, this is a very intuitive way of
+visualising an "expanding" universe where all galaxies appear
+to be "moving away" from each other other at the same rate.
+If you can disprove my son's contention, then a career in
+Theoretical Physics beckons which is way beyond my pay grade!
+But be warned: as Albert Einstein once remarked: "the more we
+learn, the more we realise how little we know".
 
-But even if you're not another Einstein, you too can burrow
-down and let your imagination run riot with this program.
-And if you can master something as simple as a complex number
-then the sky — nay, the universe — is the limit :-)
+But even if you're not an Einstein, you can burrow down and
+let your imagination run riot with this program. And if you
+can master something as simple as a complex number then the
+sky — nay, the universe — is the limit :-)
 
 ## Screenshots
 
