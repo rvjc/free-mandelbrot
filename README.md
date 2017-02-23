@@ -29,8 +29,8 @@ years back and I thought the time was ripe for them to start
 getting serious about math. Finding a consuming passion at a
 young age is a wonderful thing but it is often at the expense
 of other activities which, when left unattended, can limit your
-options down the road. Even when we know what's good for us,
-we tend to take a "bare minimum" or "need-to-know" approach
+options down the road. But, even when we know what's good for
+us, we tend to take a "bare minimum" or "need-to-know" approach
 to stuff that doesn't excite us. So, inevitably, as the entry
 requirements for Computer Science courses plummet, aspiring
 programmers tend to neglect the deeper mathematical aspects
