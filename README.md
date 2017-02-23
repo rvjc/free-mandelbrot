@@ -31,23 +31,23 @@ young age is a wonderful thing but it is often at the expense
 of other activities which, when left unattended, can limit your
 options down the road. But, even when we know what's good for
 us, we tend to take a "bare minimum" or "need-to-know" approach
-to stuff that doesn't excite us. So, inevitably, as the entry
-requirements for Computer Science courses plummet, aspiring
-programmers tend to neglect the deeper mathematical aspects
-which are invariably bound up with "boring" school work. Many
-programmers live to regret this later when the "math ceiling"
-is even harder to penetrate and limits their ability to truly
-excel at their art. A cursory perusal of Programming Q&A web
-sites such as StackOverflow will bear this out.
+to stuff that doesn't get us hopping out of bed in the morning.
+As the entry requirements for Computer Science courses plummet,
+it is inevitable that aspiring programmers often neglect the
+deeper mathematical aspects which are invariably bound up with
+"boring" school work. Many programmers live to regret this
+later when the "math ceiling" is much harder to penetrate and
+this limits their ability to truly excel at their art. Even a
+cursory perusal of Programming Q&A web sites such as
+StackOverflow will bear this out.
 
 Of course, the real fun is to be found in burrowing down beyond
 the superfical — and this is as true of activities like music,
 car-tinkering and sports as it is for software development.
 Most of us have the intellectual capacity and curiosity to
 do this, but the stimulus is often absent and the fear factor
-is ever-present, not least because those who have overcome the
-odds and moved up the learning curve rapidly make it all seem
-like an impossible task. 
+is ever-present, not least because those who have moved up the
+learning curve rapidly make it seem like an impossible task. 
 
 One of the downsides of school-work in general, and math in
 particular, is that we have to learn stuff whose benefits
@@ -65,17 +65,17 @@ winning over young hearts and minds than with this accidental
 discovery by Benoit Mandelbrot. As the story goes, he thought
 his printer was smudging ink which is entirely understandable
 if you check out the World View screenshot below. But Monsieur
-Mandelbrot took it upon himself to "burrow down" to investigate
-further. And, in doing so, he made what Arthur C. Clarke
-described as "one of the most astonishing discoveries in the
-entire history of mathematics".
+Mandelbrot took it upon himself to "burrow down". And, in
+doing so, he made what Arthur C. Clarke described as "one of
+the most astonishing discoveries in the entire history of
+mathematics".
 
 As my youngest son put it: "Maybe the universe is NOT expanding,
-but we getting smaller". Well, this Mandelbotesque thought
+but we are getting smaller". Well, this Mandelbotesque thought
 experiment by a twelve-year old is not as crazy at it seems if
-the "we" refers to all matter in the universe which also forms
-the basis of our reference dimensions (because everything is
-relative). As it turns out, this is a very intuitive way of
+the "we" refers to all of the matter in the universe which also
+forms the basis of our reference dimensions (because everything
+is relative). As it turns out, this is a very intuitive way of
 visualising an "expanding" universe where all galaxies appear
 to be "moving away" from each other other at the same rate.
 If you can disprove my son's contention, then a career in
@@ -83,10 +83,10 @@ Theoretical Physics beckons which is way beyond my pay grade!
 But be warned: as Albert Einstein once remarked: "the more we
 learn, the more we realise how little we know".
 
-But even if you're not an Einstein, you can burrow down and
-let your imagination run riot with this program. And if you
-can master something as simple as a complex number then the
-sky — nay, the universe — is the limit :-)
+But even if you're not an Einstein, you too can burrow down
+and let your imagination run riot with this program. And if
+you can master something as simple as a complex number then
+the sky — nay, the universe — is the limit :-)
 
 ## Screenshots
 
