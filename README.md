@@ -24,8 +24,8 @@ All of this from an innocuous little equation!
 So who said math was boring? Which brings me to the whole point
 of this exercise.
 
-Three of my sons were getting interested in programming a few
-years back and I thought the time was ripe for them to start
+A few years back, three of my sons were getting interested in
+programming  and I thought it was high time for them to start
 getting serious about math. Finding a consuming passion at a
 young age is a wonderful thing but it is often at the expense
 of other activities which, when left unattended, can limit your
