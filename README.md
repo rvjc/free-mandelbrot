@@ -24,53 +24,67 @@ All of this from an innocuous little equation!
 So who said math was boring? Which brings me to the whole point
 of this exercise.
 
-Three of my sons were developing an interest in programming a
-few years back and I thought the time was ripe for them to start
+Three of my sons were getting interested in programming a few
+years back and I thought the time was ripe for them to start
 getting serious about math. Finding a consuming passion at a
-young age is a wonderful thing but it is often at the expense of
-other activities which, when left unattended, can limit your
-options down the road.
-
-As the entry requirements for Computer Science courses plummet,
-aspiring programmers tend to neglect the deeper mathematical
-aspects which are invariably bound up with "boring" school work.
-Many programmers live to regret this later when the "math ceiling"
+young age is a wonderful thing but it is often at the expense
+of other activities which, when left unattended, can limit your
+options down the road. Even when we know what's good for us,
+we tend to do take a "bare minimum" or "need-to-know" approach
+to stuff that doesn't excite us. So, inevitably, as the entry
+requirements for Computer Science courses plummet, aspiring
+programmers tend to neglect the deeper mathematical aspects
+which are invariably bound up with "boring" school work. Many
+programmers live to regret this later when the "math ceiling"
 is even harder to penetrate and limits their ability to truly
-excel at their art. Even a cursory perusal of Programming Q&A web
-sites like StackOverflow will bear this out. Of course, the real
-fun is always to be found in burrowing down beyond the superfical.
-And this is as true of activities like music, car-tinkering and
-sports as it is for software development.
+excel at their art. A cursory perusal of Programming Q&A web
+sites such as StackOverflow will bear this out.
+
+Of course, the real fun is to be found in burrowing down beyond
+the superfical — and this is as true of activities like music,
+car-tinkering and sports as it is for software development.
+Most of us have the intellectual capacity and curiosity to
+"burrow down", but the stimulus is often absent and the fear
+factor is ever-present, not least because those who have
+overcome the odds and moved up the learning curve rapidly
+make it all seem like an impossible task. 
 
 One of the downsides of school-work in general, and math in
-particular, is that we often have to learn stuff whose benefits
+particular, is that we have to learn stuff whose benefits
 are not immediately apparent. This really sucks for modern
 teenagers whose precociousness and impatience surprise even
 those of us who were once precocious and impatient teenagers
-ourselves ;-) Complex numbers are a classic case in point and are
-often presented in a way that terrorises an already angst-ridden
-age-group. Complex? Not really (if you delve a little deeper)!
-Imaginary numbers? WTF? Square root of minus one? Iota is all
-Greek to me!
+ourselves ;-) Complex numbers are a classic case in point and
+are often presented in a way that terrorises an already angst
+ridden age-group. Complex? Not really (if you delve a little
+deeper)! Imaginary numbers? WTF? Square root of minus one?
+Iota is all Greek to me!
 
 Well, for this particular field, there is no better way of
-winning over young hearts and minds than with Benoit
-Mandelbrot's accidental discovery. As the story goes, he
-thought his printer was smudging ink (see the World View
-screenshot below). But he took it upon himself to investigate
+winning over young hearts and minds than with this accidental
+discovery by Benoit Mandelbrot. As the story goes, he thought
+his printer was smudging ink which is entirely understandable
+if you check out the World View screenshot below. But Monsieur
+Mandelbrot took it upon himself to "burrow down" to investigate
 further. And, in doing so, he made what Arthur C. Clarke
 described as "one of the most astonishing discoveries in the
 entire history of mathematics".
 
 As my youngest son put it: "Maybe the universe is NOT expanding,
-but we are getting smaller". Well, this Mandelbotesque thought
-experiment by a twelve-year old is not as crazy at it seems!
-It is actualy a very intuitive way of visualising our so-called
-"expanding" universe where all galaxies appear to be moving away
-from each other other at the same rate regardless of our point
-of reference.
+but we getting smaller". Well, this Mandelbotesque thought
+experiment by a twelve-year old is not as crazy at it seems if
+the "we" refers to all matter in the universe which also forms
+the basis of our reference dimensions (everything is relative).
+As it turns out, this is a very intuitive way of visualising an
+"expanding" universe where all galaxies appear to be "moving
+away" from each other other at the same rate. If you can disprove
+this contention, then a career in Theoretical Physics beckons
+which is way beyond my pay grade! But be warned: as Albert
+Einstein once remarked: "the more we learn, the more we realise
+how little we know".
 
-You too can burrow down and let your imagination run riot.
+But even if you're not another Einstein, you too can burrow
+down and let your imagination run riot with this program.
 And if you can master something as simple as a complex number
 then the sky — nay, the universe — is the limit :-)
 
