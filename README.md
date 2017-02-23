@@ -68,10 +68,10 @@ winning over young hearts and minds than with this accidental
 discovery by Benoit Mandelbrot. As the story goes, he thought
 his printer was smudging ink which is entirely understandable
 if you check out the World View screenshot below. But Monsieur
-Mandelbrot took it upon himself to "burrow down". And, in
-doing so, he made what Arthur C. Clarke described as "one of
-the most astonishing discoveries in the entire history of
-mathematics".
+Mandelbrot's curiosity got the better of him and took it upon
+himself to "burrow down" and investigate further. In doing so,
+he made what Arthur C. Clarke described as "one of the most
+astonishing discoveries in the entire history of mathematics".
 
 As my youngest son put it: "Maybe the universe is NOT expanding,
 but we are getting smaller". Well, this Mandelbotesque thought
